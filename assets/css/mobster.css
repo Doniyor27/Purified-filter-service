@@ -1,9 +1,6 @@
-/**
- * Mobster v1.0.0
- * Copyright 2020 by MACode ID
- * Site: www.macodeid.com
- * License under CC 4.0 ()
- */
+html {
+  scroll-behavior: smooth;
+}
 
 :root {
   --primary: #3D58F3;
@@ -19,7 +16,6 @@
   --white: #fff;
   --font-family: 'Quicksand', Arial, Helvetica, sans-serif;
   --line-height: 1.7;
-
 }
 
 body {
